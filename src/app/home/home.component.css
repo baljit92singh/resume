@@ -1,0 +1,30 @@
+.wrapper {
+    padding: 100px;
+}
+
+.image--cover {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center right;
+}
+
+.card-algin {
+    /* height: 100px; */
+    /* width: 300px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-div {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
